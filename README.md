@@ -1,0 +1,2 @@
+# -bash-zphisher.sh
+Ok
